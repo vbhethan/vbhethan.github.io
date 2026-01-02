@@ -17,12 +17,12 @@ Education
 * California Institute of Technology (2020-Present)
   * Ph.D. Candidate in Chemical Engineering
 
-Experience
+<!-- Experience
 ======
 * Goddard Group, Caltech (2022-Present)
 * Miller Group, Caltech (2020-2022)
 * QuantumScape Corp (2019)
-* Rappe Group, University of Pennsylvania (2016-2020)
+* Rappe Group, University of Pennsylvania (2016-2020) -->
 
 Awards
 ======
@@ -31,21 +31,19 @@ Awards
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* [My Google Scholar page](https://scholar.google.com/citations?user=UpmQ5DcAAAAJ)
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
 
-Skills
+<!-- Skills
 ======
 
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
