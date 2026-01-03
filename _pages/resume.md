@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /resume/
 author_profile: true
 redirect_from:
   - /resume
@@ -31,7 +31,7 @@ Awards
 
 Publications
 ======
-* [My Google Scholar page](https://scholar.google.com/citations?user=UpmQ5DcAAAAJ)
+* A list of my publications can be found on my [Google Scholar page](https://scholar.google.com/citations?user=UpmQ5DcAAAAJ)
   
 <!-- Talks
 ======
